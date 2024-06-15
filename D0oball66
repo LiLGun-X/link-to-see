@@ -6,8 +6,8 @@
 
 {"name": "TEST",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
-"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=epl-1&api_key=xjA7kf1WXmzK",
-"referer": "https://playerembed-lb.blackboxsys.net/",
+"url": "https://cdn2.turboviplay.com/data1/666c2bcf38d02/666c2bcf38d02.m3u8",
+"referer": "https://cdn2.turboviplay.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
 
