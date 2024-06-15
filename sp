@@ -1,7 +1,7 @@
 {
 "name"              :     "By.Dooball66",
 "image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9g5NUSyMS2OB-fZCEMSCdLFnAxKutGuycn9clJfdVMT7e2VKH&usqp=CAU",
-"url"               :     "https://pastebin.com/EhARAHhP",
+"url"               :     "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/sp",
 "stations" : [
 
 {
