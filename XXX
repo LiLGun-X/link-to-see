@@ -1,0 +1,14 @@
+{
+"name"              :     "JAVX",
+"author"            :     "1.1.1",
+"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPz7YZDZmXyICpRJidGUCBCyp5HOlkn9Fbbg&s",
+"url"               :     "https://drive.usercontent.google.com/u/0/uc?id=1QNaXh-jglvqcsbD8b7FJ5wDFGl1vdPWP&export=download",
+"stations" : [
+
+{"name": "🐻",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
+"url": "https://cdn2.turboviplay.com/data1/0sYuS0zNgU1mAxQQCjLy/0sYuS0zNgU1mAxQQCjLy.m3u8",
+"referer": "https://cdn2.turboviplay.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
+]
+}
