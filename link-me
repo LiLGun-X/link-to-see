@@ -1,0 +1,31 @@
+{
+ "name": "Menu", 
+ "author": "รายการทีวีX",
+ "parental": "true",
+ "image": "https://cdn.dribbble.com/users/415725/screenshots/2046893/media/8c34edeecaf37835515244f4e47edaf5.gif", 
+ "url": "https://box.xtemus.com/?playlist=v224y486w253961544",
+ "info": "รายการทีวี",
+ "groups": 
+[ 
+{ 
+"name": "เมนูหลัก", 
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl9aSKUdMxWZMLZF1qVQCJKk9J__YIsy3iJg&amp;usqp=CAU", 
+"url": "https://dl.dropbox.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0" },
+{
+ "name": "ดูหนังออนไลน์",
+ "image": "https://www.xn--72czpba0b2an4cwaa9b8c2b3l4e.live/Navigation_Bar/%E0%B8%94%E0%B8%B9%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C@2x.png",
+ "url": "https://dl.dropbox.com/s/s9y5v8amtmzxhqh/filemovie.txt?dl=0" },
+{
+ "name": "ดูซีรีย์ กำลังสร้าง", 
+ "image": "https://www.xn--72czpba0b2an4cwaa9b8c2b3l4e.live/Navigation_Bar/series.png", 
+ "url": "https://box.xtemus.com/index.php?playlist=v224y486w25396158403z2" },
+{
+ "name": "ดูหนังออนไลน์18",
+ "image": "https://www.xn--72czpba0b2an4cwaa9b8c2b3l4e.live/Navigation_Bar/av18.png",
+ "url": "https://bit.ly/doonungporn" },
+{
+ "name": "ดูหนังและซีรี่ส์", 
+ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjJz1rFvVv7vvuFLJDmb18iPq-eEr3OiTvdA&amp;usqp=CAU", 
+ "url": "https://dl.dropbox.com/s/6xn3dnvtpgvidi2/movies1234.m3u?dl=0" }
+ ]
+ }
