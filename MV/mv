@@ -1,14 +1,37 @@
 {
-"name"              :     "หนัง&ซีรีย์",
-"author"            :     "Test8",
-"image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd-3Qh_PvDex0UdqzU7iVxKU3Srfw-KATdw&s",
-"url"               :     "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/MV/mv",
-"stations" : [
-
+ "name": "Link-Me ", 
+ "author": "By . Gun-X  2",
+ "parental": "true",
+ "image": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/tv-table.gif", 
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/link-me",
+ "info": "รายการทีวี",
+ "groups": 
+[ 
+{ 
+"name": "เมนูหลัก", 
+"image": " ", 
+"url": "https://dl.dropbox.com/s/s2pgfbl88iwcy2r/tvplayidtv.txt?dl=0" },
 {
- "name": "ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
- "image": "https://www.123-hd.com/wp-content/uploads/2024/06/Doctor-Climax-300x450.jpg",
- "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/XXX"},
+ "name": "18+ ONLY",
+ "image": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/-18.png",
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/XXX" },
+{
+  "name": "SEE_BALL .ME", 
+ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRHKAzbxtuIg9qzvDdfD8UXqHIwvCQ3yUPxQ&usqp=CAU", 
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/See_Ball/ball-ME" },
+{
+ "name": "SEE_BALL .CP", 
+ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGlP9vZANi6t4t7DbsLJNN55z_iY2GSHOPJQxj_tIencywZIkYB40_NKE&s=10", 
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/See_Ball/ball-CP" },
+{
+ "name": "SEE_BALL .M3U",
+ "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwqU8ULtiaJqwFTxz757U_tL288ekU9kMmNg&usqp=CAU",
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/See_Ball/M3Ball.m3u" },
+{
+ "name": "กดที่หน้าอ้อม", 
+ "image": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/aom.jpg", 
+ "url": "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/MV/mv" }
+ 
  
  ]
  }
