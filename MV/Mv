@@ -1,9 +1,9 @@
 {
 "name"              :     "หนัง&ซีรีย์",
-"author"            :     "full",
+"author"            :     "fullx",
 "image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd-3Qh_PvDex0UdqzU7iVxKU3Srfw-KATdw&s",
 "url"               :     "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/MV/mv",
-"stations" : [
+"groups" : [
 
 {
  "name": "ดอกเตอร์ไคลแมกซ์ ปุจฉาพาเสียว",
