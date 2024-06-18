@@ -70,6 +70,13 @@
 },
 
 
+{
+"name": "TEST",
+"image": "https://rentapi.blackboxsys.net/images/png/epl-bein3.png",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-3&api_key=xjA7kf1WXmzK&token=MTcxODcyOTUyMnxmYzQxMjRiZjJhMDE5MGI3ZTRkOGFhMmRkODI1NjcxMw==",
+"referer": "https://playerembed-lb.blackboxsys.net/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "
+},
 
 
 ]
