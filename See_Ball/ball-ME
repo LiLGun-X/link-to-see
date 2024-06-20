@@ -7,7 +7,8 @@
 
 {"name": "TEST",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3&chat_group=1103312&api_key=hmcb4rf66f&token=MTcxODkxNzc3NHwxOGI3NmFhZDZjZjFjNzRlYWI3ZDhkZDg0NDFkMzdmNA==",
+"url": "https://edge-la.onlineprostream.com:9093/v5/a2JSEWN5nTVtH6VAbwBR3g/1718917100/b4b1d37d6980e1205335a38b756df818/6YPKsG8jryuSJps9ZVszWQ/1718927780/live/lx-origin/dooball66-epl3_720/chunks.m3u8",
+"referer": "https://edge-la.onlineprostream.com:9093/v5/",
 "referer": "https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
