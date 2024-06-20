@@ -1,21 +1,21 @@
 {
 "name"              :     "BY.LGX⚽",
-"author"            :     "Test8",
+"author"            :     "Test9",
 "image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd-3Qh_PvDex0UdqzU7iVxKU3Srfw-KATdw&s",
 "url"               :     "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/See_Ball/ball-ME",
 "stations" : [
 
 {"name": "TEST",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
-"url": "https://cdn2.turboviplay.com/data1/666c2bcf38d02/666c2bcf38d02.m3u8",
-"referer": "https://cdn2.turboviplay.com/",
+"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3&chat_group=1103312&api_key=hmcb4rf66f&token=MTcxODkxNzc3NHwxOGI3NmFhZDZjZjFjNzRlYWI3ZDhkZDg0NDFkMzdmNA==",
+"referer": "https://playerembed-lb.blackboxsys.net/,
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
 
 
 {"name": "epl-1",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
-"url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3&chat_group=1103312&api_key=hmcb4rf66f&token=MTcxODkxNzc3NHwxOGI3NmFhZDZjZjFjNzRlYWI3ZDhkZDg0NDFkMzdmNA==",
+"url": "https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=epl-1&api_key=xjA7kf1WXmzK",
 "referer": "https://playerembed-lb.blackboxsys.net/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
