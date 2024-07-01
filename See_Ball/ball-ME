@@ -1,15 +1,14 @@
 {
 "name"              :     "BY.LGX⚽",
-"author"            :     "Test9",
+"author"            :     "Test10",
 "image"             :     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAd-3Qh_PvDex0UdqzU7iVxKU3Srfw-KATdw&s",
 "url"               :     "https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/See_Ball/ball-ME",
 "stations" : [
 
 {"name": "TEST",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
-"url": "https://edge-la.onlineprostream.com:9093/v5/a2JSEWN5nTVtH6VAbwBR3g/1718917100/b4b1d37d6980e1205335a38b756df818/6YPKsG8jryuSJps9ZVszWQ/1718927780/live/lx-origin/dooball66-epl3_720/chunks.m3u8",
-"referer": "https://edge-la.onlineprostream.com:9093/v5/",
-"referer": "https://playerembed-lb.blackboxsys.net/",
+"url": "https://dkl-c33es.cdn.akamaiz.com/dookeela/epl3/chunks.m3u8?nimblesessionid=2171046&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgMTE6Mjk6NDIgUE0maGFzaF92YWx1ZT1lZkptSVV0ZFV1VWp0RVJuL1RCa1RBPT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://dkl-c33es.cdn.akamaiz.com/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
 
