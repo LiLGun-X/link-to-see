@@ -21,6 +21,425 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
 
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-0 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUEVISION NOW", TRUE Film1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TrueFilmHD2.th" tvg-name="TrueFilmHD2" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/cb3a8bf0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp" group-title="TRUEVISION NOW",True Film 2
+#EXTVLCOPT:http-referrer=https://wacth.tv
+#https://wacthstream.com/stream_live/222_True_Film_HD/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNS8yMDI0IDEyOjUzOjUzIFBNJmhhc2hfdmFsdWU9L3pqQWhpZURyeFJwWndUYlQ4MjJZQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzIwNDUz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6342b23473f5a8caccc7a928caa6d9d:54e4f22c165c4f024fa0988bab410562
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="bein1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-6/playlist.m3u8
+
+
+
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3677f2e261e75ca09340d1a4d484e720:584344d9df8c1ab292cda4740265c2ec
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="bein3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-7/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0HD85mDKRDvS_4zfbEGii1B6fszy7FGWBA&usqp=CAU" 
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1 
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com/
+#https://smart-tv.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://playidturl1.github.io/epgtv/ch/PremierHD1_chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football  2 
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+#https://playidturl1.github.io/epgtv/ch/truesport/PremierHD2.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True PremierHD 2 
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://smart-tv.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football 2
+https://streaming.livescorethai.net/iptv/bsb-epl2.stream/playlist.m3u8?|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://streaming.livescorethai.net/iptv/bsb-epl3.stream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com
+https://smart-tv.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD3
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+https://cdn1.aws-live-streaming.com/ais/epl3/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp",True PremierHD 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True Premier HD 4
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+https://cdn1.aws-live-streaming.com/ais/epl4/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True PremierHD 4
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://streaming.livescorethai.net/iptv/bsb-epl4.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True PremierHD 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-4.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bb0beb90-e966-11ed-993c-b59183950f79_webp_original.webp",True PremierHD 4
+#EXTVLCOPT:http-referrer=https://www.movie87hd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://blacktvreborn.my.id/channel/sport/truepremiresport4.m3u8
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
+https://cdn1.aws-live-streaming.com/ais/epl5/playlist.m3u8|Referer=https://aisplay24hd.com
+
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com
+#https://switch.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://streaming.livescorethai.net/iptv/bsb-epl5.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
+https://streaming.livescorethai.net/iptv/epl-5.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/bbea1690-e966-11ed-935b-df134f58d288_webp_original.webp",True PremierHD 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8|Referer=https://livescorethai.net/
+
+
+
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport1.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sports 1
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd1/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sports 1
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+#https://cdn1.aws-live-streaming.com/ais/tsp1/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesports1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp",True Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#https://sport.livedoomovies.com:4432/02_2sporthd1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport2.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 2
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd2/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 2
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+#https://cdn1.aws-live-streaming.com/ais/tsp2/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd3.iptv36.my.to tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+https://streaming.livescorethai.net/iptv/hd-tsport3.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sports 3
+#EXTVLCOPT:http-referrer=https://dooball2you.com
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesporthd3/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp",True Sports 3
+#EXTVLCOPT:http-referrer=https://aisplay24hd.com
+https://cdn1.aws-live-streaming.com/ais/tsp3/playlist.m3u8
+
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesportshd4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",True Sports 4 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesports4.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.png",True Sports 4 
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+#https://sport.livedoomovies.com:4432/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-tsport5.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="truesports5.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp",True Sports 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd5/playlist.m3u8
+#https://sport.livedoomovies.com:4432/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp" group-title="TRUEVISION NOW ",True Sports 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-tsport7.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-0 tvg-id="TrueSport7.th" tvg-name="TrueSport7" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp" group-title="TRUEVISION NOW ",True Sports 7
+#EXTVLCOPT:http-referrer=https://dooball2you.com/
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/truesportsd7/playlist.m3u8
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="GOLF CHANNEL.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/6057ad50-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Golf Channel Thailand 2
+#EXTVLCOPT:http-user-agent=AISPlay/2.9.17.29 (Linux;Android 11) ExoPlayerLib/2.9.6
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0130/DASH/V0130.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=e03fd24bef345b5eb0bf4ea7e8344fa1&chunkHttps=true&tmid=B0006&tpbk=lZSpEwDQKr6OSyrk&rrt=1719870023&tmod=rfk&rsid=fac946bb-f2ba-4f63-88db-f33da32596ce&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=dd76b1f5d428d57587f72bd71388b9b0&origin=anevia&tfa=f0-fc&tttl=1719956423
+EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2021/10/25/9bc0de00-3565-11ec-a098-9b134fb8338e_webp_320.png", Golf Channel
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="spotv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",SPOTV 1 THAILAND
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv1/playlist.m3u8?|Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="spotv" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/60cba4d0-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",SPOTV 1
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/true-spotv-1/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",SPOTV 2 THAILANDTV
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/spotv2/playlist.m3u8?|Referer=https://dooball2you.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="spotv2" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/61050450-29cc-11ee-b2f4-e9de482d866e_webp_320.webp",SPOTV 2 
+#EXTVLCOPT:http-referrer=https://doolive4k.tv
+https://dolive.thaim3u.com/doolive4k-tv/true-spotv-1/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-6/playlist.m3u8?|Referer=https://doolive4k.tv
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="beIN SPORTS 1.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+https://cdn1.aws-live-streaming.com/ais/bein1/playlist.m3u8|Referer=https://aisplay24hd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f3c5240-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8|Referer=https://7mthai.net
+
+#EXTVLCOPT:http-referrer=https://www.doomovie-hd.com
+https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports  2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports  2 
+#EXTVLCOPT:http-referrer=https://7mthai.net
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="beinsports2thailand.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5f346300-29cc-11ee-b2f4-e9de482d866e_webp_original.webp", Bein Sports  3
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
+https://dolive.thaim3u.com/doolive4k-tv/siamsport-7/playlist.m3u8?|Referer=https://doolive4k.tv
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="bein3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
+https://cdn1.aws-live-streaming.com/ais/bein3/playlist.m3u8|Referer=https://aisplay24hd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="beIN SPORTS 3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
+#EXTVLCOPT:http-referrer=https://7mthai.net/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="beIN SPORTS 3.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/07/24/5fda18e0-29cc-11ee-846b-a1c4e5181c87_webp_original.webp", Bein Sports 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW " tvg-id="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/f65ea900-e595-11ed-86b8-bb40638e3c49_webp_original.webp", TENNIS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_TennisHD_720p/chunklist.m3u8|Referer=https://www.doomovie-hd.com
+
+#EXTINF:-1 tvg-id="TrueFilmHD1.th" tvg-name="TH - TR FILM HD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.png" group-title="TRUEVISION NOW", TRUE FILM HD1
+#https://spleeny-bridges.000webhostapp.com/channel/truefilm1.m3u8
+#EXTINF:-0 tvg-id="GEM" tvg-name="Gem" tvg-logo="https://cms.dmpcdn.com/livetv/2020/03/17/46466450-6842-11ea-a7cd-dd316e61efc7_original.png" group-title="TRUEVISION NOW",TH GEM
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/244_GEM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDQ6MTE6MzggUE0maGFzaF92YWx1ZT0rWnQrNVQrZEIrZER5aXRvc3kveWNRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODAzMDU=
+
+#EXTINF:-0 tvg-id="AXNThailand.th" tvg-name="AXN" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png" group-title="TRUEVISION NOW",TH AXN
+https://streaming.livescorethai.net/iptv/hd-axn.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="CCM" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/febce46e-fb05-41d9-b294-08ecb3f1d1e6.png",CCM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-celestial.stream/chunks.m3u8|Referer=https://freetvdd.com/
+
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/233_CCM/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDc6MzEgUE0maGFzaF92YWx1ZT1nbjhUOWw5YXpkaVd0OXZGVVN1K2pBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTM5Mjg=
+
+
+
+#EXTINF:-0 tvg-id="CrimeInvestigation" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.png" group-title="TRUEVISION NOW",Crime Investigation TH
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/557_H2/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDQ6MTI6MjQgUE0maGFzaF92YWx1ZT1MZGM1Tlp3bXAxV2QzWnUxYXBUc3hRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDU3MTk=
+
+
+#EXTINF:-0 tvg-id="OUTDOOR" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2018/12/17/f2c30832-7d77-4a24-88ad-1d30c593bda1.png" group-title="TRUEVISION NOW",TH OUTDOOR
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+#https://wacthstream.com/stream_live/673_OUTDOOR/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yOC8yMDI0IDEwOjUxOjMwIEFNJmhhc2hfdmFsdWU9ZnFKRGg1QlNwc3h3VHRDRk5LaFFNZz09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzE1NTAx
+
+
+
+#EXTINF:-0 group-title="TRUEVISION NOW" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/561_TRUE_EXPLORE_SCI/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDQ6MTI6NTMgUE0maGFzaF92YWx1ZT1RR2IvdGpPRDY5MnFZenNRb05MK1pnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMjMxODU=
+
+
+#EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png" group-title="TRUEVISION NOW",TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/559_ExploreWild/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDQ6MTM6MTQgUE0maGFzaF92YWx1ZT1CUmJJSzh4YjBSdSt5UWd1d1laRkpRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNDE1NDg=
+#EXTINF:-0 tvg-id="TrueExploreWild.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png" group-title="TRUEVISION NOW",TRUE EXPLORE WILD
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+#https://streaming.livescorethai.net/iptv/sd-expwild.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="TR KMTV" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2017/10/17/1dd95b24-9fb7-474d-bc4d-af3a6df84302.png" group-title="TRUEVISION NOW",KMTV 
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/347_KMTV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NDc6NDYgUE0maGFzaF92YWx1ZT1FUXlNNk95T3dmNTdHK0JEdUtCZWRRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTAwMjM=
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="BBC Lifestyle.th" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/BBC-lifestylese.png",BBC lifestyle
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/353_BBC_Life_Style/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTM6MDEgUE0maGFzaF92YWx1ZT1nZTZNRmcrbkpKL2k0Y1JuTTYzenJRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTA4NDM=
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="" tvg-logo="https://wacth.officebk.co/uploads/tv_image/sm/20220301173645love-nature.png",Love Nature4k
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/563_Love_Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTg6NTkgUE0maGFzaF92YWx1ZT1MMmZXYjNETEJoWWdxRk1oaS9TdHhnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMTMxNTc=
+
+
+#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUEVISION NOW", TRUE HISTORY
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/556_History/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTg6NDggUE0maGFzaF92YWx1ZT1PdVV2L0FaQk5YV2dqOXBHZGdhczdBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfMzI1MzI=
+#EXTINF:-0 tvg-id="History" tvg-name="HistoryHD" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUEVISION NOW", TRUE HISTORY
+#EXTVLCOPT:http-referrer=https://freetvdd.com
+https://streaming.livescorethai.net/iptv/hd-history.stream/playlist.m3u8
+
+
+#EXTINF:1 tvg-id="BBC Earth.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUEVISION NOW",BBC Earth HD
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/568_BBC_Earth/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTk6MTYgUE0maGFzaF92YWx1ZT1TcEt4WDljV0pGTVJUbzdpaFJWczFRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTkzMjc=
+
+#EXTINF:1 tvg-id="BBC Earth.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/01/24/dcf08ac0-b368-4991-99ea-e07df194bf63.png" group-title="TRUEVISION NOW",BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-bbcearth.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="TH - LIFETIME" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png" group-title="TRUEVISION NOW",Lifetime TH 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-lifetime.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-id="TLC" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png",TLC
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net
+https://streaming.livescorethai.net/iptv/sd-tlc.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="TrueXZyte.th" tvg-name="True X-Zyte" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/2a450650-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="TRUEVISION NOW", True Xzyte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-xzyte.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png", True Film Asia
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/237_TrueFilmAsia./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTY6NDggUE0maGFzaF92YWx1ZT1iV0owTllBRUd5ZzhYSHRZc3JFQW13PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfOTczOTc=
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png", True Film Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-filmasia.stream/playlist.m3u8|Referer=https://freetvdd.com/
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://wacthstream.com/stream_live/236_TrueThaiFilmHD./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTc6MTIgUE0maGFzaF92YWx1ZT0xd21sdFhQc3BrNWdmR0VWNmYyYzBnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNTgxNzQ=
+#EXTINF:-1 group-title="TRUEVISION NOW" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Thai Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/hd-tfilm.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+#EXTINF:-0 tvg-id="KBSWorld" tvg-name="KBS World" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/26/e13eeed0-fb8a-11ed-9087-3197146bda13_webp_original.png" group-title="TRUEVISION NOW",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/245_KBS./playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTY6MDEgUE0maGFzaF92YWx1ZT1pY04vcGxacm1qZmM4c1c3ZE0xc2JnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODMwNDk=
+#EXTINF:-0 tvg-id="TrueAsianMore.th" tvg-name="" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/47a53600-e599-11ed-94a2-8feec94a4a3b_webp_original.webp" group-title="TRUEVISION NOW",TrueAsianMore
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://wacth.tv/
+https://wacthstream.com/stream_live/239_AsianMore/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xOS8yMDI0IDc6NTY6MjggUE0maGFzaF92YWx1ZT1IUzdlRDJrV1BQTEJLZk5PWjdHaDd3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfODM0NzI=
+#EXTINF:-0 tvg-id="trueseries.th" tvg-name="trueseries" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.png" group-title="TRUEVISION NOW",TrueSeries
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=https://freetvdd.com/
+
+
+
 
 
 
