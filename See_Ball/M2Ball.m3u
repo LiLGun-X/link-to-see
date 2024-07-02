@@ -13,24 +13,24 @@ https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 
+##### L-Q###############
 
-#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="Test Low" tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football  1 Low
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football 1 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png" ,True Premier Football HD 2
+#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",True Premier Football  2 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",True Premier Football HD 3
+#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",True Premier Football 3 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png" ,True Premier Football HD 4
+#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",True Premier Football 4 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png" ,True Premier Football HD 5
+#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",True Premier Football 5 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-
