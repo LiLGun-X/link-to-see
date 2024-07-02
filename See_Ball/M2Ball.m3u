@@ -8,3 +8,7 @@ https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
 #EXTINF:-1  tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png" group-title="DOO HD ",True Premier Football  2 
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1  tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png" group-title="DOO HD ",True Premier Football  3
+#EXTVLCOPT:http-referrer=https://livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
