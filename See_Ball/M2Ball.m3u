@@ -34,3 +34,10 @@ https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist
 #EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",True Premier Football 5 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+
+
+##########M-Q#########
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="M-Q",TEST-X3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://dookeela.live/
+https://dkl-c33es.cdn.akamaiz.com/dookeela/epl3/chunks.m3u8?nimblesessionid=2171046&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgMTE6Mjk6NDIgUE0maGFzaF92YWx1ZT1lZkptSVV0ZFV1VWp0RVJuL1RCa1RBPT0mdmFsaWRtaW51dGVzPTIw
