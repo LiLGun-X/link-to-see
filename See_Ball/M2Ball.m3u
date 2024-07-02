@@ -12,3 +12,9 @@ https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #EXTINF:-1  tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png" group-title="DOO HD ",True Premier Football  3
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="Test Low"
+#EXTINF:-1 tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football  1 Low
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
+
