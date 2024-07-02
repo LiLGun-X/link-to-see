@@ -1,5 +1,11 @@
 #EXTM3U
 
+#### H-Q#######
+
+#EXTINF:-1  tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png" group-title="H-Q",True Premier Football HD 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerembed-lb.blackboxsys.net
+https://playerembed-lb.blackboxsys.net/livesod365/ajax_player.php?channel=epl-1&api_key=xjA7kf1WXmzK
 
 #EXTINF:-1  tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png" group-title="DOO HD ",True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://7mthai.net
