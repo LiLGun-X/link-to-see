@@ -443,17 +443,17 @@ https://streaming.livescorethai.net/iptv/sd-series.stream/playlist.m3u8|Referer=
 
 
 
-#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="DOO HD",TEST-X
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="DOO HDx",TEST-X
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dookeela.live/
 https://dkl-c33es.cdn.akamaiz.com/dookeela/epl3/chunks.m3u8?nimblesessionid=2171046&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgMTE6Mjk6NDIgUE0maGFzaF92YWx1ZT1lZkptSVV0ZFV1VWp0RVJuL1RCa1RBPT0mdmFsaWRtaW51dGVzPTIw
 
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR0HD85mDKRDvS_4zfbEGii1B6fszy7FGWBA&usqp=CAU" 
-#EXTINF:-1 group-title="DOO HD " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1 
+#EXTINF:-1 group-title="DOO HDx " tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba425a00-e966-11ed-be07-cbff4c6d2c94_webp_original.png",True Premier Football 1 
 #EXTVLCOPT:http-referrer=https://7mthai.net
 https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="DOO HD" tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football  2 
+#EXTINF:-1 group-title="DOO HDx" tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/ba4c4510-e966-11ed-896e-69ce273284a6_webp_original.png",True Premier Football  2 
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 
