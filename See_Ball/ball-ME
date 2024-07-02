@@ -8,7 +8,7 @@
 {"name": "TEST",
 "image": "https://rentapi.blackboxsys.net/images/png/epl-1.png",
 "url": "https://dkl-c33es.cdn.akamaiz.com/dookeela/epl3/chunks.m3u8?nimblesessionid=2171046&wmsAuthSign=c2VydmVyX3RpbWU9Ny8xLzIwMjQgMTE6Mjk6NDIgUE0maGFzaF92YWx1ZT1lZkptSVV0ZFV1VWp0RVJuL1RCa1RBPT0mdmFsaWRtaW51dGVzPTIw",
-"referer": "https://dkl-c33es.cdn.akamaiz.com/",
+"referer": "https://dookeela.live/",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 "},
 
 {"name": "TEST-2",
