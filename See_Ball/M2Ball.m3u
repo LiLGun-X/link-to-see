@@ -19,27 +19,40 @@ https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
 #EXTVLCOPT:http-referrer=https://livescorethai.net/
 https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
 
-##### L-Q###############
+##### DOO BALL X###############
 
-#EXTINF:-1 tvg-id="premier1.iptv36.my.to" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football 1 Low
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="DOO BALL X" tvg-logo="https://api-soccer.thai-play.com/images/tv/FxKl1hWHCcaRmo9ZOIiE2HnUJygUQCNTrue_Premier_Football_HD_1.png",True Premier Football 1 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
 
-#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",True Premier Football  2 Low
+#EXTINF:-1 group-title="DOO BALL X" tvg-logo="https://api-soccer.thai-play.com/images/tv/8cdpTAZzt5KNu2QcIpOSJbKsBZHCXfHa1819.png",True Premier Football  2 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
 
-#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",True Premier Football 3 Low
+#EXTINF:-1 group-title="DOO BALL X" tvg-logo="https://api-soccer.thai-play.com/images/tv/Nm0iqmsKCLZBxlYShlSp702TjLUpEFkTrue_Premier_Football_HD_3.png",True Premier Football 3 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
 
-#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",True Premier Football 4 Low
+#EXTINF:-1 group-title="DOO BALL X" tvg-logo="https://api-soccer.thai-play.com/images/tv/w3dj8zkTukWC49JZSm1kzXqIa3lDljitv-station-true-premier-football-4-1821.png",True Premier Football 4 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
 
-#EXTINF:-1 group-title="L-Q" tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",True Premier Football 5 Low
+#EXTINF:-1 group-title="DOO BALL X" tvg-logo="https://api-soccer.thai-play.com/images/tv/lU31HrjVOMsrvGp7AVNSvQTX1JleH8ntv-station-true-premier-football-5-1822.png",True Premier Football 5 Low
 #EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
 https://dolive.thaim3u.com:443/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="beIN SPORTS 1" tvg-name="Bein 1 TH" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="DOO BALL X",Bein 1 TH
+#EXTVLCOPT:http-referrer=https://wacth.tv
+https://media.wacthstream.com/stream_live/607_BEIN1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI0IDEwOjAzOjI3IFBNJmhhc2hfdmFsdWU9d2Q3bHVqdktvMUlKNTlGTHhwa2xhQT09JnZhbGlkbWludXRlcz04NjQwMDAwMCZzdHJtX2xlbj0wJmlkPWNoXzM3OTgw
+
+#EXTINF:-1 tvg-id="bein1.iptv36.my.to" tvg-name="Bein 1 TH" tvg-logo="https://logo.iptveditor.com/beinsports1.png" group-title="DOO BALL X",Bein 1 TH
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/playlist.m3u8?|Referer=https://dooball2you.com
+
+#EXTINF:-1 tvg-id="bein2.iptv36.my.to" tvg-name="Bein 2 TH" tvg-logo="https://logo.iptveditor.com/beinsports2.png" group-title="DOO BALL X",Bein 2 TH
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8?|Referer=https://dooball2you.com
+
+#EXTINF:-1 tvg-id="bein3.iptv36.my.to" tvg-name="Bein 3 TH" tvg-logo="https://ufa77.tv/data/ufa77live/stream/img_ch/20220327125017_bein3.png" group-title="DOO BALL X",Bein 3 TH
+https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/playlist.m3u8?|Referer=https://dooball2you.com
 
 
 ##########M-Q#########
