@@ -77,7 +77,7 @@ https://cdn1.aws-live-streaming.com/true/epl3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://24xball.com
 https://cdn3.googlecdnforstreaming.live:446/24xball/epl3/playlist.m3u8?wmsAuth=
 
-#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="M-Q", test url
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="M-Q", test url x
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=hhttps://ballsod.vip/
 https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-1/chunks.m3u8
