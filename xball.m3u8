@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOkw6Ib5GjWE_hq7cYj040ePUskR72BKS02g&usqp=CAU" group-title="Ball X A" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/t1.png",True Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premie2.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/t2.png" group-title="Ball X A",True Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premie3.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/t3.png" group-title="Ball X A",True Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premie4.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/t4.png" group-title="Ball X A",True Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premie5.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/t5.png" group-title="Ball X A",True Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-demo.iamtheme.com/
+https://dolive.thaim3u.com/p1gtm1nG34jcOdziNNPs9mVG4tzJrkeu/siamsport-5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b1.png" group-title="Ball X A",Bein TH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein2.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b2.png" group-title="Ball X A",Bein TH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein3.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b3.png" group-title="Ball X A",Bein TH 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premier5.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/1724188145673.png" group-title="Ball X A",By . ME to SAIMZEED.com
+
+
+#██████████████BALL X A██████████████████████████████████████
+
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X B",True Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-1.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="premie2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X B",True Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="premie3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X B",True Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="premie4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X B",True Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="premie5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X B",True Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="bein1.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b1.png" group-title="Ball X B",Bein TH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein2.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b2.png" group-title="Ball X B",Bein TH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein3.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b3.png" group-title="Ball X B",Bein TH 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein1.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b1.png" group-title="Ball X B",Bein TH 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein2.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b2.png" group-title="Ball X B",Bein TH 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="bein3.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/IMG/b3.png" group-title="Ball X B",Bein TH 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+https://streaming.livescorethai.net/iptv/epl-bein3.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="premier5.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/1724188145673.png" group-title="Ball X B",By . Link JJx
+
+██████████████BALL X B██████████████████████████████████████████████
+
+#EXTINF:-1 tvg-id="premier1.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X C",True Premier 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="premier2.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X C",True Premier 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="premier3.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X C",True Premier 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="premier4.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X C",True Premier 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-id="premier5.iptv36.my.to" tvg-logo="https://cms.dmpcdn.com/livetv/2023/05/03/baf9ea30-e966-11ed-a3d3-f3f98ac7a1a1_webp_original.webp" group-title="Ball X C",True Premier 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="premier5.iptv36.my.to" tvg-logo="https://raw.githubusercontent.com/LiLGun-X/link-to-see/main/%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%95%E0%B8%B6%E0%B8%87/1724188145673.png" group-title="Ball X C",By . PlayIDTV
+
+██████████████BALL X C██████████████████████████████████████████████
